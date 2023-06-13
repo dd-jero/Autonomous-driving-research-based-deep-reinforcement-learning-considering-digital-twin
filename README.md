@@ -1,2 +1,2 @@
-# Unity-Deep-Q-Network
+# Unity 디지털 트윈 환경에서의 자율주행 DQN
 2023 - 1 정보통신종합설계
