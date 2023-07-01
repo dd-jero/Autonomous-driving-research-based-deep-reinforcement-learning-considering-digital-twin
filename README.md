@@ -4,3 +4,4 @@
 3000 episode 학습 결과 (4배속)   
 ![ezgif com-video-to-gif (1)](https://github.com/dd-jero/Autonomous-driving-DQN-Deep-Q-Network-in-Unity-digital-twin-environment/assets/107921434/81b610aa-012a-4ddc-8270-60d290a572ba)   
 평균 주행 속도 10.3m/s (최대 가능 속도 12.5m/s)
+[종설 포스터_권혁규김형석이재영_최종.pptx](https://github.com/dd-jero/Comprehensive-Information-and-Communication-Design/files/11925421/_._.pptx)
