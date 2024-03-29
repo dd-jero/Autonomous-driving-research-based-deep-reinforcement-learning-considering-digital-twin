@@ -12,8 +12,8 @@
   1. Using: PyTorch, CuPy, Numpy, CUDA, Anaconda
   2. Input(State Space): Image queue, Ray distance list
   3. Action space: 15개의 discrete actions
-  4. Unity Asset: Stylized Vehicles Pack - FREE (에이전트, 장애물), Cartoon Road Constructor (도로)
-
+     
+![DQN 구조도 drawio](https://github.com/dd-jero/Autonomous-driving-research-based-deep-reinforcement-learning-considering-digital-twin/assets/107921434/07c53389-cf95-402e-8c49-55ae14fca7ac)
 
 
 ## 3000 episode 학습 결과 (4배속)   
